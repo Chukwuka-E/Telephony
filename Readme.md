@@ -39,33 +39,38 @@ No setup needed! Just grab the code and drop it into your JavaScript project.
 3.  **Create Observers:**
 
     const numberObserver = new PhoneNumberObserver();
-    const dialingObserver = new DialingObserver();
+
+      const dialingObserver = new DialingObserver();
 
 
-4.  **Add Observers to the Telephone Instance:**
+5.  **Add Observers to the Telephone Instance:**
 
 
     telephone.addObserver(numberObserver);
-    telephone.addObserver(dialingObserver);
+
+     telephone.addObserver(dialingObserver);
 
 
-5.  **Add Phone Numbers:**
+6.  **Add Phone Numbers:**
 
 
-    telephone.addPhoneNumber("2347023232");
-    telephone.addPhoneNumber("2347012345");
+    telephone.addPhoneNumber("09283424341");
 
-6.  **Dial a Phone Number:**
-
-
-    telephone.dialPhoneNumber("2347023232");
+     telephone.addPhoneNumber("08283424341"); 
+7.  **Dial a Phone Number:**
 
 
-7.  **Remove a Phone Number:**
+    telephone.dialPhoneNumber("09283424341");
 
 
-    telephone.removePhoneNumber("2347012345");
+8.  **Remove a Phone Number:**
 
+
+    telephone.removePhoneNumber("0828342434");
+### Output.
+![alt text](<Screenshot 2025-02-16 120430.png>)
+
+Hope you understood  . thank you😊😊
 
 ### Example Code
 Hope you understood the example . thank you😊😊
