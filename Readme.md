@@ -68,7 +68,19 @@ No setup needed! Just grab the code and drop it into your JavaScript project.
 
     telephone.removePhoneNumber("0828342434");
 ### Output.
-![alt text](<Screenshot 2025-02-16 120430.png>)
+Added Phone Number: 09283424341
+
+Added Phone Number: 08283424341
+
+Dialing 09283424341...
+
+Dialed Phone Number: 09283424341
+
+Now Dialling 09283424341
+
+Removed Phone Number: 08283424341
+
+Phone Number 08283424341 not found. Cannot dial.
 
 Hope you understood  . thank you😊😊
 
